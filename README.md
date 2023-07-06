@@ -1,4 +1,9 @@
+<center>
+
 ### 🐸chaeyh4🐸
+
+</center>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
@@ -9,5 +14,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyh4&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=chaeyh4&show_icons=true">
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyh4&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=chaeyh4&show_icons=true">
+</div>
